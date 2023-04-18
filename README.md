@@ -1,6 +1,13 @@
 # NSIPMA-DeepESN
-Source Code of Improving Deep Echo State Network with Neuronal Similarity-Based Iterative Pruning Merging Algorithm 
+ Source Code of Improving Deep Echo State Network with Neuronal Similarity-Based Iterative Pruning Merging Algorithm 
+Artical url: https://www.mdpi.com/2076-3417/13/5/2918
 
-Run: ESNIPMA.py
+File explaination:
+ MackeyGlass.txt and Lorenzz.txt: data files.
+ ESNIPMA.py: Core algorithm and optimization.
+ CudaEntropy.py: Speed up on GPU.
+ AnalysisIPMA.py: Analysis and visualization.
 
-url: https://www.mdpi.com/2076-3417/13/5/2918
+To run the algorithm : run ESNIPMA.py
+
+
