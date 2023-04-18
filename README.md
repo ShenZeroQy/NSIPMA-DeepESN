@@ -3,10 +3,10 @@
 Artical url: https://www.mdpi.com/2076-3417/13/5/2918  
 
 File explaination:  
-  MackeyGlass.txt & Lorenzz.txt: data files.  
-  ESNIPMA.py: Core algorithm and optimization.  
-  CudaEntropy.py: Speed up on GPU.  
-  AnalysisIPMA.py: Analysis and visualization.  
+   MackeyGlass.txt & Lorenzz.txt: Data files.  
+   ESNIPMA.py: Core algorithm and optimization.  
+   CudaEntropy.py: Speed up on GPU.  
+   AnalysisIPMA.py: Analysis and visualization.  
 
 To run the algorithm : run ESNIPMA.py
 
